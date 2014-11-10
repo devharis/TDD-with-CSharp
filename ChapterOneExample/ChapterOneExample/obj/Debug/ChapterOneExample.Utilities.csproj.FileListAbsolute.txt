@@ -1,0 +1,2 @@
+c:\users\devharis\documents\visual studio 2013\Projects\ChapterOneExample\ChapterOneExample\obj\Debug\ChapterOneExample.Utilities.csprojResolveAssemblyReference.cache
+c:\users\devharis\documents\visual studio 2013\Projects\ChapterOneExample\ChapterOneExample\bin\Debug\ChapterOneExample.exe.config

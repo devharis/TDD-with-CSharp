@@ -1,0 +1,5 @@
+c:\users\devharis\documents\visual studio 2013\Projects\ChapterOneExample\ChapterOneExample.UnitTests\obj\Debug\ChapterOneExample.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\devharis\documents\visual studio 2013\Projects\ChapterOneExample\ChapterOneExample.UnitTests\bin\Debug\ChapterOneExample.UnitTests.dll
+c:\users\devharis\documents\visual studio 2013\Projects\ChapterOneExample\ChapterOneExample.UnitTests\bin\Debug\ChapterOneExample.UnitTests.pdb
+c:\users\devharis\documents\visual studio 2013\Projects\ChapterOneExample\ChapterOneExample.UnitTests\obj\Debug\ChapterOneExample.UnitTests.dll
+c:\users\devharis\documents\visual studio 2013\Projects\ChapterOneExample\ChapterOneExample.UnitTests\obj\Debug\ChapterOneExample.UnitTests.pdb
